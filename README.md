@@ -200,7 +200,7 @@ In our action, we post a comment on the pull request using a [bash](https://en.w
 <details id=4>
 <summary><h2>Step 4: Merge your workflow file</h2></summary>
 
-_You're now able to write and run an Actions workflow! :sparkles:_
+_You're now able to write and run an Actions workflow!! :sparkles:_
 
 Merge your changes so the action will be a part of the `main` branch.
 
